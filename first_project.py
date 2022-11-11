@@ -6,3 +6,4 @@ for i in range(1, 10):
         print(i)
 
 print(f"We have {count} even numbers")
+print("This is fun")
